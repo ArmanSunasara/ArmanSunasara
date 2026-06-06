@@ -46,11 +46,3 @@
 
 
 </div>
-
----
-
-<div align="center">
-
-![Snake animation](https://profile-readme-generator.com/assets/snake.svg)
-
-</div>
